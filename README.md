@@ -1,8 +1,8 @@
 # ProxyPool
-代理ip池
-关键词：爬虫、python、flask、蘑菇代理
-开启服务：[nohup] python app.py [&]
-以下请求为get方法：
+代理ip池\n
+关键词：爬虫、python、flask、蘑菇代理\n
+开启服务：[nohup] python app.py [&]\n
+以下请求为get方法：\n
 http://192.168.10.212:10008/get_proxy?count=10
 获取10个代理，用户独占
 
